@@ -1,0 +1,3 @@
+[submodule "Source/Business/libs/GlasswallPlatformEngine"]
+	path = Source/Business/libs/GlasswallPlatformEngine
+	url = https://glasswall.visualstudio.com/Glasswall%20Cloud/_git/Glasswall.Platform.Engine
